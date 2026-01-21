@@ -2,7 +2,7 @@
 -- 프로그래머스 중급 (⭐⭐⭐)
 -- 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/157340
 -- 작성자: 정서영
--- 작성일: 2026. 01. 21. 18:30:16
+-- 작성일: 2026. 01. 21. 18:31:31
 
 SELECT CAR_ID, CASE
 
